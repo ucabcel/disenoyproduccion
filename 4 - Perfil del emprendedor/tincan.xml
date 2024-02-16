@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://62VPldu9KWO_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">M1 - Perfil del emprendedor</name>
+			<description lang="und" />
+			<launch lang="und">story.html</launch>
+		</activity>
+		<activity id="http://62VPldu9KWO_course_id/6djwH4qrKyI" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Bienvenida</name>
+			<description lang="und">Bienvenida</description>
+		</activity>
+		<activity id="http://62VPldu9KWO_course_id/6FGWoAXn2Kg" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Objetivo</name>
+			<description lang="und">Objetivo</description>
+		</activity>
+		<activity id="http://62VPldu9KWO_course_id/5nw4EeG9Y5G" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Introducción</name>
+			<description lang="und">Introducción</description>
+		</activity>
+		<activity id="http://62VPldu9KWO_course_id/6qeGH6dzBwA" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Auto descubrimiento del emprendedor</name>
+			<description lang="und">Auto descubrimiento del emprendedor</description>
+		</activity>
+		<activity id="http://62VPldu9KWO_course_id/5u3qxJAIPJz" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Construyendo propósitos desde la búsqueda</name>
+			<description lang="und">Construyendo propósitos desde la búsqueda</description>
+		</activity>
+		<activity id="http://62VPldu9KWO_course_id/6pcMYPE9P2O" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Filosofía, acciones y técnicas para identificar el propósito de vida</name>
+			<description lang="und">Filosofía, acciones y técnicas para identificar el propósito de vida</description>
+		</activity>
+		<activity id="http://62VPldu9KWO_course_id/6XYV0z24g0Q" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">El entorno y sus posibilidades</name>
+			<description lang="und">El entorno y sus posibilidades</description>
+		</activity>
+		<activity id="http://62VPldu9KWO_course_id/6FnfTGy8DXR" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Accionando las ideas</name>
+			<description lang="und">Accionando las ideas</description>
+		</activity>
+		<activity id="http://62VPldu9KWO_course_id/5wOKk9mmXfF" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Actividades</name>
+			<description lang="und">Actividades</description>
+		</activity>
+		<activity id="http://62VPldu9KWO_course_id/5bCJSrriN6W" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Actividad 1</name>
+			<description lang="und">Actividad 1</description>
+		</activity>
+		<activity id="http://62VPldu9KWO_course_id/5bCJSrriN6W/5WFzAwNXZNT" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Arrastrar y soltar</name>
+			<description lang="und">Arrastrar y soltar</description>
+			<interactionType>matching</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>statement_6gvn31lajE8[.]choice_6X7gQrS6R0c</correctResponsePattern>
+				<correctResponsePattern>statement_6gvn31lajE8[.]choice_5ySKXJFL1ID</correctResponsePattern>
+				<correctResponsePattern>statement_6gvn31lajE8[.]choice_65QLzPky8CV</correctResponsePattern>
+				<correctResponsePattern>statement_6gvn31lajE8[.]choice_6kJlhuxUOEC</correctResponsePattern>
+				<correctResponsePattern>statement_5XusznQ0X2p[.]choice_6qkYPQEdDh7</correctResponsePattern>
+				<correctResponsePattern>statement_5XusznQ0X2p[.]choice_5bb7ReQEShw</correctResponsePattern>
+				<correctResponsePattern>statement_5XusznQ0X2p[.]choice_6C5lEYETSft</correctResponsePattern>
+				<correctResponsePattern>statement_6gwERXTcTKd[.]choice_5bkEmdylS5d</correctResponsePattern>
+				<correctResponsePattern>statement_6gwERXTcTKd[.]choice_5khiGqo07KK</correctResponsePattern>
+			</correctResponsePatterns>
+			<source>
+				<component>
+					<id>statement_6gvn31lajE8</id>
+					<description lang="und">Esquina redondeada del mismo lado 4</description>
+				</component>
+				<component>
+					<id>statement_5XusznQ0X2p</id>
+					<description lang="und">Esquina redondeada del mismo lado 5</description>
+				</component>
+				<component>
+					<id>statement_6gwERXTcTKd</id>
+					<description lang="und">Esquina redondeada del mismo lado 6</description>
+				</component>
+			</source>
+			<target>
+				<component>
+					<id>choice_6X7gQrS6R0c</id>
+					<description lang="und">Cuadro de texto 6 - Búsqueda deoportunidades e iniciativa</description>
+				</component>
+				<component>
+					<id>choice_5ySKXJFL1ID</id>
+					<description lang="und">Cuadro de texto 7 - Cumplimiento de loscompromisos</description>
+				</component>
+				<component>
+					<id>choice_65QLzPky8CV</id>
+					<description lang="und">Cuadro de texto 8 - Exigencia de calidady eficiencia</description>
+				</component>
+				<component>
+					<id>choice_6kJlhuxUOEC</id>
+					<description lang="und">Cuadro de texto 9 - Toma deriesgos calculados</description>
+				</component>
+				<component>
+					<id>choice_6qkYPQEdDh7</id>
+					<description lang="und">Cuadro de texto 10 - Fijación de metas</description>
+				</component>
+				<component>
+					<id>choice_5bb7ReQEShw</id>
+					<description lang="und">Cuadro de texto 11 - Búsqueda de información</description>
+				</component>
+				<component>
+					<id>choice_6C5lEYETSft</id>
+					<description lang="und">Cuadro de texto 12 - Planificación yseguimiento sistemático</description>
+				</component>
+				<component>
+					<id>choice_5bkEmdylS5d</id>
+					<description lang="und">Cuadro de texto 13 - Persuasión y redesde apoyo</description>
+				</component>
+				<component>
+					<id>choice_5khiGqo07KK</id>
+					<description lang="und">Cuadro de texto 14 - Independencia yautoconfianza</description>
+				</component>
+			</target>
+		</activity>
+		<activity id="http://62VPldu9KWO_course_id/5mZkYnIV0ST" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Actividad 2</name>
+			<description lang="und">Actividad 2</description>
+		</activity>
+		<activity id="http://62VPldu9KWO_course_id/5mZkYnIV0ST/6GkEcZQNTip" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Respuesta múltiple</name>
+			<description lang="und">Respuesta múltiple</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5x1BisJV5d4</correctResponsePattern>
+				<correctResponsePattern>choice_5y8OAD6ITrv</correctResponsePattern>
+				<correctResponsePattern>choice_5shXdnrqAw4</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5x1BisJV5d4</id>
+					<description lang="und">Técnicas</description>
+				</component>
+				<component>
+					<id>choice_5y8OAD6ITrv</id>
+					<description lang="und">Filosofía</description>
+				</component>
+				<component>
+					<id>choice_5shXdnrqAw4</id>
+					<description lang="und">Acciones</description>
+				</component>
+				<component>
+					<id>choice_5lRlL8rom1Z</id>
+					<description lang="und">Logros</description>
+				</component>
+				<component>
+					<id>choice_6Rw5k7yOezN</id>
+					<description lang="und">Metas</description>
+				</component>
+				<component>
+					<id>choice_6RMOCMQdcUM</id>
+					<description lang="und">Objetivos</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://62VPldu9KWO_course_id/5aXHnyeN0Rf" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Actividad 3</name>
+			<description lang="und">Actividad 3</description>
+		</activity>
+		<activity id="http://62VPldu9KWO_course_id/5aXHnyeN0Rf/5XbMyhyqUZd" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Arrastrar y soltar</name>
+			<description lang="und">Arrastrar y soltar</description>
+			<interactionType>matching</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>statement_5h9aIb5xY3Q[.]choice_6icKtNl3tpy</correctResponsePattern>
+				<correctResponsePattern>statement_5ZC4oK4vtot[.]choice_6CjyVlVYClb</correctResponsePattern>
+				<correctResponsePattern>statement_6blstJSKx16[.]choice_5nAnNR835PV</correctResponsePattern>
+				<correctResponsePattern>statement_5jd7ffpmtUt[.]choice_5fOHGGF9VfE</correctResponsePattern>
+			</correctResponsePatterns>
+			<source>
+				<component>
+					<id>statement_5h9aIb5xY3Q</id>
+					<description lang="und">Rectángulo 1</description>
+				</component>
+				<component>
+					<id>statement_5ZC4oK4vtot</id>
+					<description lang="und">Rectángulo 2</description>
+				</component>
+				<component>
+					<id>statement_6blstJSKx16</id>
+					<description lang="und">Rectángulo 3</description>
+				</component>
+				<component>
+					<id>statement_5jd7ffpmtUt</id>
+					<description lang="und">Rectángulo 4</description>
+				</component>
+			</source>
+			<target>
+				<component>
+					<id>choice_6icKtNl3tpy</id>
+					<description lang="und">Cuadro de texto 9 - empathy map</description>
+				</component>
+				<component>
+					<id>choice_6CjyVlVYClb</id>
+					<description lang="und">Cuadro de texto 7 - medio ambiente</description>
+				</component>
+				<component>
+					<id>choice_5nAnNR835PV</id>
+					<description lang="und">Cuadro de texto 8 - lienzo</description>
+				</component>
+				<component>
+					<id>choice_5fOHGGF9VfE</id>
+					<description lang="und">Cuadro de texto 6 - propósito</description>
+				</component>
+			</target>
+		</activity>
+		<activity id="http://62VPldu9KWO_course_id/60zJDPHnr7L" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Resumen</name>
+			<description lang="und">Resumen</description>
+		</activity>
+		<activity id="http://62VPldu9KWO_course_id/5dvEkiiEiIA" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Referencias</name>
+			<description lang="und">Referencias</description>
+		</activity>
+		<activity id="http://62VPldu9KWO_course_id/6ji5FAJj03m" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Cierre</name>
+			<description lang="und">Cierre</description>
+		</activity>
+	</activities>
+</tincan>
